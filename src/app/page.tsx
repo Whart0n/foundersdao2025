@@ -64,7 +64,7 @@ function RegistrationPopup({ isOpen, onClose }: { isOpen: boolean; onClose: () =
             Registration Closed
           </h3>
           <p className="text-gray-300 mb-6 text-lg">
-            We're sorry, registration for this event closed on June 30th, 2025.
+            We&#39;re sorry, registration for this event closed on June 30th, 2025.
           </p>
           <button
             onClick={onClose}
@@ -99,7 +99,7 @@ export default function Home() {
           </div>
           <Image
             src="/logo.png"
-            alt="Founder's DAO Logo"
+            alt="Founder&#39;s DAO Logo"
             width={120}
             height={120}
             className="block mx-auto mb-4 logo-glow"
@@ -168,7 +168,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="footer">
         <div className="container">
-          <p>&copy; {new Date().getFullYear()} Founder's DAO Conference. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Founder&#39;s DAO Conference. All rights reserved.</p>
         </div>
       </footer>
     </div>
