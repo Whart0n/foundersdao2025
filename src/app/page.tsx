@@ -116,7 +116,7 @@ export default function Home() {
           </div>
           <div className="btns">
             <a href="#schedule" className="btn primary">View Agenda</a>
-            <button onClick={handleRequestInvite} className="btn ghost">Request Invite</button>
+            <button onClick={handleRequestInvite} className="btn ghost">Register</button>
           </div>
         </div>
       </header>
