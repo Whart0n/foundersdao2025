@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="100" fill="#1E3C72"/>
+  <path d="M100 50L150 150H50L100 50Z" fill="white"/>
+  <circle cx="100" cy="100" r="40" fill="#2A5298"/>
+  <text x="100" y="110" font-family="Arial" font-size="16" font-weight="bold" fill="white" text-anchor="middle">DAO</text>
+</svg>
